@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CALICO_VERSION="v3.12.0"
+CALICO_VERSION="v3.15.1"
 # Download the matching version
 curl -L  \
 	https://github.com/projectcalico/calicoctl/releases/download/$CALICO_VERSION/calicoctl \
